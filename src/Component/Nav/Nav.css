@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+#menu{
+    margin-top: 15px;
+    font-size: large;
+    color: green;
+}
+a{
+    margin-right: 10px;
+    color: green;
+    
+}
